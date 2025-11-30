@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pallav Srakar</h1>
+<h1 align="center">Hi 👋, I'm Pallav Sarkar</h1>
 <h3 align="center">A passionate frontend developerper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavsarkar2005&label=Profile%20views&color=0e75b6&style=flat" alt="pallavsarkar2005" /> </p>
